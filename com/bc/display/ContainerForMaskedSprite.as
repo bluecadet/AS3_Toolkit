@@ -1,4 +1,4 @@
-package bc.helper {
+package com.bc.display {
 	/**
 	 * "Correcting" the behavior of width and height of masked Sprites.
 	 * 
@@ -8,8 +8,8 @@ package bc.helper {
 	 * evaluates the width of itself by checking how it's contents 
 	 * influences this property.
 	 * 
-	 * @author	Bluecadet, Stephen Hurwitz <steve@bluecadet.com>
-	 * @package	bc.helper
+	 * @author	Bluecadet, <info@bluecadet.com>
+	 * @package	com.bc.display
 	 */
 	
 	import flash.display.DisplayObject;

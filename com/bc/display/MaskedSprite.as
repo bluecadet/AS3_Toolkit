@@ -1,4 +1,4 @@
-package bc.helper {
+package com.bc.display {
 	/**
 	 * "Correcting" the behavior of width and height of masked Sprites.
 	 * 
@@ -10,8 +10,8 @@ package bc.helper {
 	 * If a mask has yet to be applied, the dimentions of the Sprite will
 	 * be returned as would be normal.
 	 * 
-	 * @author	Bluecadet, Stephen Hurwitz <steve@bluecadet.com>
-	 * @package	bc.helper
+	 * @author	Bluecadet, <info@bluecadet.com>
+	 * @package	com.bc.display
 	 */
 	
 	import flash.display.Sprite;

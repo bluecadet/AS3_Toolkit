@@ -1,9 +1,9 @@
-package bc.utils {
+package com.bc.utils {
 	/**
 	 * Drawing tools that may be useful
 	 * 
-	 * @author	Bluecadet, Stephen Hurwitz <steve@bluecadet.com>
-	 * @package	bc.utils
+	 * @author	Bluecadet, <info@bluecadet.com>
+	 * @package	com.bc.utils
 	 */
 	
 	import flash.display.Graphics;
